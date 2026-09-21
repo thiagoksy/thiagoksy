@@ -1,46 +1,63 @@
-### Hi there 👋
+# Thiago Yamamoto 👋
 
-<!--
-**thiagoksy/thiagoksy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Mechatronics Engineer | Computer Vision, Robotics Perception & Edge AI
 
-Here are some ideas to get you started:
+Mechatronics Engineer focused on the intersection of hardware and intelligent software. Specialized in **Embedded Systems**, **Computer Vision**, **Edge AI Deployment**, and **Process Automation/RPA**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
+### 🐍 Python, AI & Computer Vision
+
+Focused on building perception pipelines, deep learning models, and deploying computer vision to the edge:
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO_v8-000000?style=for-the-badge&logo=ultralytics&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+---
+
+### 🛠️ Hardware, Embedded Systems & Tools
+
+**Core Languages**  
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Robotics, Hardware & CAD**  
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-D31027?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51000?style=for-the-badge&logo=autodesk&logoColor=white)
+![PCB Design](https://img.shields.io/badge/PCB_Design-41B883?style=for-the-badge&logo=micro-star-international&logoColor=white)
+
+**Tools & Infrastructure**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/thiagoksy">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thiagoksy&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoksy&layout=compact&langs_count=7&theme=dark"/>
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thiagoksy&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thiagoksy&layout=compact&theme=dark&langs_count=6" alt="Top Languages" />
 </div>
-  
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
-  <img align="center" alt="C" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Cplusplus" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
-   <img align="center" alt="Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
+---
+
+### 🐍 Contribution Graph
+
+<div align="center">
+  <img src="https://github.com/thiagoksy/thiagoksy/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
-  
-  ##
- 
-<div> 
-  
-   ![Snake animation](https://github.com/thiagoksy/thiagoksy/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+
+---
+
+### 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-yamamoto-ks)
